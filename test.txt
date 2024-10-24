@@ -1,2 +1,4 @@
 hi
 new line
+merge conflict
+should be arised
